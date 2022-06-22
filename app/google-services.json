@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946201706961",
+    "project_id": "masukdaftar-b6c54",
+    "storage_bucket": "masukdaftar-b6c54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946201706961:android:bad67718b741613e21a0f0",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946201706961-c3jg1p7ah5g8ba046q74ta5l4gs7d9u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV_MPYpgNq3gPLALANMR6DBWGQF7to3FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946201706961-c3jg1p7ah5g8ba046q74ta5l4gs7d9u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
